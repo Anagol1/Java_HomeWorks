@@ -1,0 +1,196 @@
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Input array
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Logging for task
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Input temp
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Checking of elements
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+WARNING: Changing of elements places
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Cycle 2 begins
+февр. 21, 2023 7:38:22 PM HomeWork.Homework2.task_2_1_sort main
+INFO: Void for show result
