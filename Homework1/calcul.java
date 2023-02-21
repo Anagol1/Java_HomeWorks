@@ -7,21 +7,21 @@ public class calcul {
         System.out.println("введите два числа: ");
         double num1 = sc.nextDouble();
         double num2 = sc.nextDouble();
-        sc.nextLine();
+        // sc.nextLine();
         System.out.println("введите оператор: ");
-        String oper = sc.nextLine();
+        String oper = sc.next(); //next чтобы не пропускал строку
         sc.close();
         if (oper.charAt(0) == '+') {
-            System.out.printf("%f %s %f = %f", num1, oper, num2, num1 + num2);
+            System.out.printf("%.2f %s %.2f = %.2f", num1, oper, num2, num1 + num2);
         }
         else if (oper.charAt(0) == '-') {
-            System.out.printf("%f %s %f = %f", num1, oper, num2, num1 - num2);
+            System.out.printf("%.2f %s %.2f = %.2f", num1, oper, num2, num1 - num2);
         }
         else if (oper.charAt(0) == '*') {
-            System.out.printf("%f %s %f = %f", num1, oper, num2, num1 * num2);
+            System.out.printf("%.2f %s %.2f = %.2f", num1, oper, num2, num1 * num2);
         }
         else if (oper.charAt(0) == '/') {
-            System.out.printf("%f %s %f = %f", num1, oper, num2, num1 / num2);
+            System.out.printf("%.2f %s %.2f = %.2f", num1, oper, num2, num1 / num2);
         }
 
     }    
